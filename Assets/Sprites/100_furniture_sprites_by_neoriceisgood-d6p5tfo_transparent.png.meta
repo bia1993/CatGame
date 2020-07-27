@@ -1,0 +1,1686 @@
+fileFormatVersion: 2
+guid: 834aa47de3da186458e2db6831ac4019
+timeCreated: 1499134931
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_0
+    21300002: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_1
+    21300004: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_2
+    21300006: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_3
+    21300008: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_4
+    21300010: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_5
+    21300012: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_6
+    21300014: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_7
+    21300016: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_8
+    21300018: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_9
+    21300020: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_10
+    21300022: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_11
+    21300024: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_12
+    21300026: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_13
+    21300028: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_14
+    21300030: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_15
+    21300032: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_16
+    21300034: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_17
+    21300036: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_18
+    21300038: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_19
+    21300040: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_20
+    21300042: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_21
+    21300044: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_22
+    21300046: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_23
+    21300048: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_24
+    21300050: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_25
+    21300052: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_26
+    21300054: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_27
+    21300056: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_28
+    21300058: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_29
+    21300060: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_30
+    21300062: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_31
+    21300064: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_32
+    21300066: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_33
+    21300068: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_34
+    21300070: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_35
+    21300072: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_36
+    21300074: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_37
+    21300076: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_38
+    21300078: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_39
+    21300080: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_40
+    21300082: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_41
+    21300084: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_42
+    21300086: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_43
+    21300088: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_44
+    21300090: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_45
+    21300092: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_46
+    21300094: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_47
+    21300096: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_48
+    21300098: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_49
+    21300100: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_50
+    21300102: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_51
+    21300104: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_52
+    21300106: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_53
+    21300108: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_54
+    21300110: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_55
+    21300112: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_56
+    21300114: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_57
+    21300116: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_58
+    21300118: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_59
+    21300120: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_60
+    21300122: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_61
+    21300124: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_62
+    21300126: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_63
+    21300128: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_64
+    21300130: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_65
+    21300132: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_66
+    21300134: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_67
+    21300136: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_68
+    21300138: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_69
+    21300140: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_70
+    21300142: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_71
+    21300144: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_72
+    21300146: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_73
+    21300148: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_74
+    21300150: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_75
+    21300152: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_76
+    21300154: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_77
+    21300156: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_78
+    21300158: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_79
+    21300160: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_80
+    21300162: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_81
+    21300164: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_82
+    21300166: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_83
+    21300168: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_84
+    21300170: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_85
+    21300172: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_86
+    21300174: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_87
+    21300176: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_88
+    21300178: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_89
+    21300180: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_90
+    21300182: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_91
+    21300184: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_92
+    21300186: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_93
+    21300188: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_94
+    21300190: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_95
+    21300192: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_96
+    21300194: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_97
+    21300196: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_98
+    21300198: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_99
+    21300200: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_100
+    21300202: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_101
+    21300204: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_102
+    21300206: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_103
+    21300208: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_104
+    21300210: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_105
+    21300212: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_106
+    21300214: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_107
+    21300216: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_108
+    21300218: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_109
+    21300220: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_110
+    21300222: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_111
+    21300224: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_112
+    21300226: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_113
+    21300228: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_114
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 942
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_1
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 944
+        width: 76
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_2
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 944
+        width: 66
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_3
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 944
+        width: 78
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_4
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 944
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_5
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 944
+        width: 52
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_6
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 944
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_7
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 944
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_8
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 944
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_9
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 944
+        width: 74
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_10
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 958
+        width: 120
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_11
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 944
+        width: 62
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_12
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 944
+        width: 124
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_13
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 840
+        width: 74
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_14
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 840
+        width: 74
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_15
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 838
+        width: 122
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_16
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 840
+        width: 74
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_17
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 840
+        width: 74
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_18
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 840
+        width: 82
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_19
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 840
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_20
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 838
+        width: 86
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_21
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 840
+        width: 78
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_22
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 838
+        width: 54
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_23
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 736
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_24
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 736
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_25
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 736
+        width: 38
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_26
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 736
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_27
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 736
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_28
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 736
+        width: 32
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_29
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 736
+        width: 74
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_30
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 736
+        width: 90
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_31
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 736
+        width: 46
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_32
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 736
+        width: 46
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_33
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 734
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_34
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 736
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_35
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 736
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_36
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 736
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_37
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 670
+        width: 78
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_38
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 632
+        width: 116
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_39
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 682
+        width: 44
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_40
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 642
+        width: 62
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_41
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 630
+        width: 80
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_42
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 630
+        width: 92
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_43
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 632
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_44
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 632
+        width: 28
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_45
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 632
+        width: 28
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_46
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 644
+        width: 64
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_47
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 632
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_48
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 632
+        width: 52
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_49
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 632
+        width: 98
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_50
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 630
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_51
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 556
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_52
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 556
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_53
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 528
+        width: 84
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_54
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 528
+        width: 104
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_55
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 528
+        width: 50
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_56
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 526
+        width: 32
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_57
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 526
+        width: 32
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_58
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 526
+        width: 50
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_59
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 546
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_60
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 546
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_61
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 548
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_62
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 528
+        width: 78
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_63
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 528
+        width: 88
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_64
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 422
+        width: 48
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_65
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 424
+        width: 110
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_66
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 424
+        width: 42
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_67
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 424
+        width: 58
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_68
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 424
+        width: 114
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_69
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 426
+        width: 100
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_70
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 424
+        width: 22
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_71
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 424
+        width: 46
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_72
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 432
+        width: 62
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_73
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 424
+        width: 114
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_74
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 424
+        width: 88
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_75
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 332
+        width: 46
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_76
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 336
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_77
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 320
+        width: 98
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_78
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 320
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_79
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 318
+        width: 54
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_80
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 320
+        width: 74
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_81
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 318
+        width: 64
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_82
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 320
+        width: 72
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_83
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 320
+        width: 44
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_84
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 320
+        width: 118
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_85
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 214
+        width: 56
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_86
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 214
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_87
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 214
+        width: 98
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_88
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 216
+        width: 108
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_89
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 216
+        width: 56
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_90
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 216
+        width: 96
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_91
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 216
+        width: 106
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_92
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 218
+        width: 74
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_93
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 214
+        width: 68
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_94
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 238
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_95
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 110
+        width: 52
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_96
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 110
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_97
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 112
+        width: 58
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_98
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 112
+        width: 114
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_99
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 112
+        width: 70
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_100
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 112
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_101
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 114
+        width: 92
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_102
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 116
+        width: 72
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_103
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 112
+        width: 60
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_104
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 112
+        width: 56
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_105
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 8
+        width: 84
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_106
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 6
+        width: 80
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_107
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 12
+        width: 90
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_108
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 8
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_109
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 8
+        width: 106
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_110
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 26
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_111
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 8
+        width: 102
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_112
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 6
+        width: 102
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_113
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 8
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood-d6p5tfo_transparent_114
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 22
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
